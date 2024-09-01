@@ -6,7 +6,7 @@ console.log(employeeName,employeeID,isActive)
 // Array for list of products
 let order = ["laptop", "keyboard", "mouse"]
 // Object for product details
-const productdetails = {
+const productDetails = {
     name:"laptop",
     price:"500",
     inStock:"true"}
@@ -24,3 +24,12 @@ accountbalance /= 40
 console.log("Initial Profit:", accountBalance)
 accountbalance %= 40
 console.log("Initial Profit:", accountBalance)
+
+let employeeScore1 = 25 // number
+let employeeScore2 = 35 // number
+console.log(employeeScore1 > employeeScore2)
+console.log(employeeScore1 < employeeScore2)
+console.log(employeeScore1 >= employeeScore2)
+console.log(employeeScore1 <= employeeScore2)
+console.log(employeeScore1 === employeeScore2)
+console.log(employeeScore1 !== employeeScore2)
