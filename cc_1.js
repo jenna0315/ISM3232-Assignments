@@ -33,3 +33,9 @@ console.log(employeeScore1 >= employeeScore2)
 console.log(employeeScore1 <= employeeScore2)
 console.log(employeeScore1 === employeeScore2)
 console.log(employeeScore1 !== employeeScore2)
+
+let hasKeyCard = true // boolean
+let hasPermission = false // boolean
+console.log(hasKeyCard && hasPermission)
+console.log(hasKeyCard || hasPermission)
+console.log(! hasPermission)
