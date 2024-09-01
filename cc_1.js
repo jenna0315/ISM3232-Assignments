@@ -16,13 +16,13 @@ let accountBalance = 5000 // number
 // Updating the Profit Values
 accountBalance += 40
 console.log("Initial Profit:", accountBalance)
-accountbalance -= 40
+accountBalance -= 40
 console.log("Initial Profit:", accountBalance)
-accountbalance *= 40
+accountBalance *= 40
 console.log("Initial Profit:", accountBalance)
-accountbalance /= 40
+accountBalance /= 40
 console.log("Initial Profit:", accountBalance)
-accountbalance %= 40
+accountBalance %= 40
 console.log("Initial Profit:", accountBalance)
 
 let employeeScore1 = 25 // number
