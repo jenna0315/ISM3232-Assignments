@@ -6,10 +6,7 @@ console.log(employeeName,employeeID,isActive)
 // Array for list of products
 let order = ["laptop", "keyboard", "mouse"] // string
 // Object for product details
-const productDetails = {
-    name:"laptop"// string,
-    price:"500"// number,
-    inStock:"true" // boolean}
+const productDetails = {name:"laptop"// string, price:"500"// number, inStock:"true" // boolean}
 
 let accountBalance = 5000 // number
     console.log("Initial Profit:", accountBalance)
