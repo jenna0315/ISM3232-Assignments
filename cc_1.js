@@ -4,12 +4,12 @@ var isActive = "true" // boolean
 console.log(employeeName,employeeID,isActive)
 
 // Array for list of products
-let order = ["laptop", "keyboard", "mouse"]
+let order = ["laptop", "keyboard", "mouse"] // string
 // Object for product details
 const productDetails = {
-    name:"laptop",
-    price:"500",
-    inStock:"true"}
+    name:"laptop"// string,
+    price:"500"// number,
+    inStock:"true" // boolean}
 
 let accountBalance = 5000 // number
     console.log("Initial Profit:", accountBalance)
